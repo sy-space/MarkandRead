@@ -59,4 +59,12 @@ Edit the Canvas card and change:
 The highlight disappears automatically.
 
 ---
+## To BE DONE
+
+- [ ] Click sidebar entry → jump to first occurrence in document
+- [ ] Hover highlighted word → show inline definition 
+- [ ] Support PDF highlighting
+- [ ] Card UI color system based on mastery level
+- [ ] More AI providers
+- [ ] Offline fallback dictionary
  
