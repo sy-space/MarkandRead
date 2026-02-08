@@ -1,0 +1,10 @@
+{
+  "id": "mark-and-read",
+  "name": "Mark and Read",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Select words or phrases while reading, save them to a Canvas, and highlight them when encountered again.",
+  "author": "SY",
+  "isDesktopOnly": false,
+  "main": "main.js"
+}
